@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Honeypot",
+			"path": "Honeypot"
+		},
+		{
+			"name": "log2pcap",
+			"path": "log2pcap"
+		},
+		{
+			"name": "CowrieGPT-Access",
+			"path": "CowrieGPT-Access"
+		},
+		{
+			"path": "../AI Shenanigans/hackbible"
+		}
+	],
+	"settings": {}
+}
