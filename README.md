@@ -39,10 +39,10 @@ Built on real-world logs, battle-tested code, and duct-tape ops logic.
 
 ---
 
-## 🔑 API Keys in Use
+## 🔑 API Keys in Use (Follow links to geet your own keys)
 
-- **Shodan** - `S3CbYk2KiQ2YCRalgwDBQBuDWXOTFVNy`
-- **VirusTotal** - `1af336a18372928badb75d0ff8dd1c0142d37a1c34f92ab9e7ba46222fc7d723`
+- **Shodan** - `(https://developer.shodan.io/)https://developer.shodan.io/https://developer.shodan.io/`
+- **VirusTotal** - `(https://docs.virustotal.com/reference/overview)`
 
 _(All API keys scoped to safe, lab-only use.)_
 
